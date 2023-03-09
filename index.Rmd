@@ -1,10 +1,9 @@
 --- 
-title: "Projects in R"
-author: "Dan Roberts"
+title: "YOUR TITLE HERE"
+author: "YOUR NAME HERE"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Indroduction
-this book should contain a few of my first self-directed projects in r
+# Down the rabbit-hole
 
